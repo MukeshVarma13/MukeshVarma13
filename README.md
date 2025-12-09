@@ -18,7 +18,7 @@
 
 ## 🖥️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,nginx,docker,linux,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nginx,docker,linux,maven" />
 </p>
 
 - Spring Boot (MVC, Security)  
