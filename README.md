@@ -124,7 +124,8 @@ I can build a full **RTMP streaming system (Spring Boot + React + FFmpeg)** in a
 ---
 
 # 📫 Connect With Me  
-- 🔗 LinkedIn: https://linkedin.com/in/mukesh-varma-b9749330a  
-- ✉️ Email: mukeshvarma7676@gmail.com  
-
+- 🔗 LinkedIn: https://linkedin.com/in/mukesh-varma-dev  
+- ✉️ Email: mukeshvarma7676@gmail.com
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7ecf8864-a007-416f-9ccd-dbc477b6026c" />
+ Portfolio: https://www.mukesh-varma-portfolio.in
 ---
