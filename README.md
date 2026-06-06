@@ -87,7 +87,7 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukeshvarma&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com/?user=mukeshvarma&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 # 📊 GitHub Stats
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=MukeshVarma13&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="47%" /> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MukeshVarma13&theme=dark&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=MukeshVarma13&theme=dark&hide_border=true" width="47%" />
 </p>
 
 <!-- <p align="center">
@@ -126,6 +126,5 @@ I can build a full **RTMP streaming system (Spring Boot + React + FFmpeg)** in a
 # 📫 Connect With Me  
 - 🔗 LinkedIn: https://linkedin.com/in/mukesh-varma-dev  
 - ✉️ Email: mukeshvarma7676@gmail.com
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7ecf8864-a007-416f-9ccd-dbc477b6026c" />
- Portfolio: https://www.mukesh-varma-portfolio.in
+- 👨🏻‍💼 Portfolio: https://www.mukesh-varma-portfolio.in
 ---
