@@ -87,7 +87,7 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mukeshvarma&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://trophy.benkou.dev/?username=MukeshVarma13&theme=dark&no-frame=true" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 # 📊 GitHub Stats
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=MukeshVarma13&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="47%" /> -->
-  <img src="https://streak-stats.demolab.com/?user=MukeshVarma13&theme=dark&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=MukeshVarma13&theme=dark&hide_border=true" />
 </p>
 
 <!-- <p align="center">
